@@ -1,0 +1,3 @@
+../Src/gpio_conf.c:12:6:ConfigLD	4	static
+../Src/gpio_conf.c:22:6:ConfigLD2	4	static
+../Src/gpio_conf.c:32:6:ConfigButton	4	static
