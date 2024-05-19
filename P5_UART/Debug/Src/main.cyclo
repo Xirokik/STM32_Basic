@@ -1,0 +1,10 @@
+../Drivers/CMSIS/Include/core_cm4.h:1809:22:__NVIC_SetPriority	2
+../Drivers/CMSIS/Include/core_cm4.h:2017:26:SysTick_Config	2
+../Src/main.c:42:5:main	7
+../Src/main.c:79:6:UART2_Config	1
+../Src/main.c:103:6:UART2_SendStr	2
+../Src/main.c:109:6:UART2_SendChar	2
+../Src/main.c:116:9:UART2_RecChar	5
+../Src/main.c:133:10:GetSystemTick	1
+../Src/main.c:136:6:SysTick_Handler	1
+../Src/main.c:139:6:Delay	2

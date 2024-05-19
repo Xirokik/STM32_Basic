@@ -1,0 +1,2 @@
+../Src/gpio_conf.c:11:6:ConfigOutput	4	static
+../Src/gpio_conf.c:20:6:ConfigOutput2	4	static
